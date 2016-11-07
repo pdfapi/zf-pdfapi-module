@@ -2,6 +2,7 @@
   "name": "pdfapi/zf-pdfapi-module",
   "description": "Zend Framework module for converting PDF documents via pdfapi.io",
   "homepage": "https://pdfapi.io/",
+  "license": "MIT",
   "authors": [
     {
       "name": "Tõnis Tobre",
