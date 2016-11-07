@@ -1,0 +1,19 @@
+{
+  "name": "pdfapi/zf-pdfapi-module",
+  "description": "Zend Framework module for converting PDF documents via pdfapi.io",
+  "homepage": "https://pdfapi.io/",
+  "authors": [
+    {
+      "name": "Tõnis Tobre",
+      "email": "tobre@pdfapi.io"
+    }
+  ],
+  "require": {
+    "zendframework/zend-servicemanager":"^2.2 || ^3.0.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "": ["src/"]
+    }
+  }
+}
