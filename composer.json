@@ -14,8 +14,8 @@
     "pdfapi/php-sdk": "^1.0.0"
   },
   "autoload": {
-    "psr-0": {
-      "": ["src/"]
+    "psr-4": {
+      "PdfApi\\": ["src/PdfApi"]
     }
   }
 }
