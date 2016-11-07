@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
 /zf-pdfapi-module.iml
+/composer.phar
+/vendor/
