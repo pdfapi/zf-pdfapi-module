@@ -1,4 +1,4 @@
-# Zend Framework 2 and 3 module for pdfapi.io service
+# Zend Framework 3 module for pdfapi.io service
 
 ## Installation
 
