@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^5.5|^7.0",
-    "zendframework/zend-servicemanager":"^2.2 || ^3.0.1",
+    "zendframework/zend-servicemanager":"^3.0.1",
     "pdfapi/php-sdk": "^1.0.0"
   },
   "autoload": {
