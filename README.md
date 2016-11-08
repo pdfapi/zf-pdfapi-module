@@ -5,14 +5,14 @@
 pdfapi.io Zend Framework module can be installed with [Composer](https://getcomposer.org/). Run this command:
 
 ```sh
-composer require pdfapi/zf-pdfapi-module
+composer require pdfapi/zf3-pdfapi-module
 ```
 
 or add following line in your project composer.json:
 
 ```json
 "require": {
-    "pdfapi/zf-pdfapi-module": "^1.0"
+    "pdfapi/zf3-pdfapi-module": "^1.0"
 },
 ```
 
