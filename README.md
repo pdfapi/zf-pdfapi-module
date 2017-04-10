@@ -54,4 +54,6 @@ Use factories to get the pdfapi instance into controllers or services
 
 Use it in the code like this: https://github.com/pdfapi/zf3-sample-app/blob/master/module/Application/src/Controller/IndexController.php
 
+For getting everything up and running quickly we have created sample skeleton app, where we use PdfApi module. Source code is located in this repository: https://github.com/pdfapi/zf3-sample-app
+
 For getting API KEY you need to register account at https://pdfapi.io. Generating API KEY will take you 10 seconds. And it is free. Really.
